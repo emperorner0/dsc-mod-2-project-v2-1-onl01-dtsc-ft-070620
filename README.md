@@ -78,7 +78,7 @@ There are certain limitations with this model. These limitations will make it so
 
 However this is not a major detriment as the majority of houses sold in the area are sold below the $1M mark as seen within this map:
 
-<img src="Homes over $1M.png" alt="Homes over $1M in King County" width="600" height="800" style="
+<img src="Homes over $1M.png" alt="Homes over $1M in King County" width="800" height="800" style="
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -86,7 +86,7 @@ However this is not a major detriment as the majority of houses sold in the area
 
 This map reveals that a very small portion of our homes are sold at or above $1M.
 
-<img src="Price of Home by Color.png" alt="Homes over $1M in King County" width="600" height="800" style=" display: block; margin-left: auto; margin-right: auto; width: 50%;">
+<img src="Price of Home by Color.png" alt="Homes over $1M in King County" width="800" height="800" style=" display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
 Total homes sold.
 
