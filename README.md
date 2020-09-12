@@ -19,6 +19,7 @@ Real estate is a risky prospect in today's market. With many ups and downs the v
   margin-left: auto;
   margin-right: auto;
   width: 50%;">
+
 Data Science Frameworks are an invaluable tool for the data science workflow. Workflow is a very common concern in many careers and especially in the programming and computer science fields. Workflows can make the difference in productivity and efficiency, and as the old adage goes 'Time is money'.
 
 We have chosen to use, of the many excellent data science frameworks, the OSEMN framework. This provide us the baseline method for getting to our results, and a way to work through our peoject that provides us with a solid workflow. So what is the OSEMN framework? The handy infographic above lays out the high level view of the process, but we would like to break it down into it's constituent parts to give a more helpful overview. 
@@ -77,7 +78,7 @@ There are certain limitations with this model. These limitations will make it so
 
 However this is not a major detriment as the majority of houses sold in the area are sold below the $1M mark as seen within this map:
 
-<img src="Homes over $1M.png" alt="Homes over $1M in King County" width="400" height="800" style="
+<img src="Homes over $1M.png" alt="Homes over $1M in King County" width="600" height="800" style="
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -85,7 +86,7 @@ However this is not a major detriment as the majority of houses sold in the area
 
 This map reveals that a very small portion of our homes are sold at or above $1M.
 
-<img src="Price of Home by Color.png" alt="Homes over $1M in King County" width="400" height="800" style=" display: block; margin-left: auto; margin-right: auto; width: 50%;">
+<img src="Price of Home by Color.png" alt="Homes over $1M in King County" width="600" height="800" style=" display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
 Total homes sold.
 
